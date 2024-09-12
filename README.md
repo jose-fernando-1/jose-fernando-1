@@ -22,7 +22,3 @@
 
 
 <img src="https://raw.githubusercontent.com/jose-fernando-1/assets/5b5d5354ba2046769d20c413a6f00faebaa4e472/arrow-back-svgrepo-com.svg" height="48" width="48"/> 
-<br>
-<p style="margin-left: 20px;">CV</p>
-
-
