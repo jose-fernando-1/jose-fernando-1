@@ -1,7 +1,7 @@
-<p align="center" style="line-height: 48px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" style="vertical-align: middle; line-height: 48px;" />
-  <span style="vertical-align: middle; font-size: 24px; margin-left: 10px; line-height: 48px;">Hi there! 👋 Welcome to my GitHub</span>
-</p>
+  <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" style="vertical-align: middle;" />
+  <span style=" font-size: 24px; margin-left: 10px;">Hi there! 👋 Welcome to my GitHub</span>
+  </p>
 
 - 🌐 I’m currently learning javascript/typescript frameworks such as React and Next.js
 - 🔒 Interested in anything related to cybersecurity
