@@ -1,6 +1,6 @@
 <p align="center" style="line-height: 48px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" style="vertical-align: middle; line-height: 48px;" />
   <span style="vertical-align: middle; font-size: 24px; margin-left: 10px; line-height: 48px;">Hi there! 👋 Welcome to my GitHub</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" height="30" style="vertical-align: middle; line-height: 48px;" />
 </p>
 
 - 🌐 I’m currently learning javascript/typescript frameworks such as React and Next.js
