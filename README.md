@@ -6,25 +6,26 @@
 
 ### Technologies
 <p>
-  <a href="https://www.python.org/" style="margin-right: 100px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Ícone Python" />
+  <a href="https://www.python.org/" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Ícone Python" />
   </a>
-  <a href="https://www.debian.org/index.pt.html">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="48" height="48" alt="Ícone Debian" />
+  <a href="https://www.debian.org/index.pt.html" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="48" height="48" alt="Ícone Debian" />
   </a>
-  <a href="https://react.dev/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="Ícone React"/>
+  <a href="https://react.dev/" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="Ícone React"/>
   </a>
-  <a href="https://getbootstrap.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="48" width="48" alt="Ícone Bootstrap"/>
+  <a href="https://getbootstrap.com/" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="48" width="48" alt="Ícone Bootstrap"/>
   </a>
-  <a href="https://git-scm.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Ícone Git"/>
+  <a href="https://git-scm.com/" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Ícone Git"/>
   </a>
   <a href="https://www.microsoft.com/pt-br/windows/?r=1">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="48" width="48" alt="Ícone Windows"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="48" width="48" alt="Ícone Windows"/>
   </a>
 </p>
+
 
 ### Hit me up!
 📧 fernando.carvalhoo@ufrpe.br
