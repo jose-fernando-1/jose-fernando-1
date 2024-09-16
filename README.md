@@ -7,9 +7,7 @@
 ### Technologies
 <p>
   <a href="https://www.python.org/">
-    <code>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Ícone Python" />
-    </code>
   </a>
   <a href="https://www.debian.org/index.pt.html">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="48" height="48" alt="Ícone Debian" />
